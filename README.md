@@ -1,10 +1,11 @@
 # Django-Authentication-API
 This is an IN-Memory authentication using Django.
 
+## POST Request To
 ```bash
-Login-Endpoint : http://127.0.0.1:8000/login/signin/
+Login-Endpoint  : http://127.0.0.1:8000/login/signin/
 
-Signup-Endpoint: http://127.0.0.1:8000/register/signup/
+Signup-Endpoint : http://127.0.0.1:8000/register/signup/
  ```
  Parameters for login: 
 {
